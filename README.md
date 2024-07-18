@@ -35,3 +35,4 @@ OrangeHrmLive es un proyecto de automatización de pruebas utilizando Java 1.8, 
 ## Reportes
 
 Los reportes de las pruebas se generan en la carpeta `cucumber-reports`. Se está utilizando **Cucumber Extent Report** para generar reportes detallados y visualmente atractivos.
+Para ejecutar y que el reporte sea generado es necesario ejecutar desde la clase **Testrunner**
